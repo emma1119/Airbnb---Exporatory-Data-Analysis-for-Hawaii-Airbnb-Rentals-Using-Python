@@ -5,7 +5,7 @@ Inside Airbnb - Exporatory Data Analysis for Hawaii Airbnb Rentals using Python
 
 Perform Exporatory Data Analysis for Hawaii Airbnb Rental data from Inside Airbnb using Python
 
-- Explore the data shape and underlying data types
+- Explore the data shape and underlying data types; plot histogram for numerical variables
 - Understand and impute for missing values
 - Understand the outliers & distribution of numerical features by box plots and remove outliers
 - Generate correlation metrix and heatmap for correlation

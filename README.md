@@ -13,3 +13,7 @@ Perform Exporatory Data Analysis for Hawaii Airbnb Rental data from Inside Airbn
   a.which room type were rented the most?
   b.What is the most and least expensive location in Hawaii? 
   Plot the a graph by Latitudes and Longitudes of the airbnb rentals against its prices by color
+
+
+
+Build an outlier Detection model using Isolation Forest to identify anomalies withing the rental listings 
